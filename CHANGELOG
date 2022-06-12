@@ -1,5 +1,5 @@
 Current:
-I have deicided to implement a database system into my app, the reason is to store information of contacts of employees and supervisiors within the company. 
+I have decided to implement a database system into my app, the reason is to store information of contacts of employees and supervisiors within the company. 
 As well as using other various ways to store data like using shared preferences, and files. 
 I will include an action bar as well as adding action items .
 
