@@ -1,1 +1,11 @@
+Current:
+I have deicided to implement a database system into my app, the reason is to store information of contacts of employees and supervisiors within the company. 
+As well as using other various ways to store data like using shared preferences, and files. 
+I will include an action bar as well as adding action items .
 
+Previous:
+I have only did the basic outline of the app to help figure out the key points to my code. I didn't thi
+
+
+Future updates:
+I will finally implement my changes and get started on the user interface using UI. As well as implementing databases onto my app using SQlite.
