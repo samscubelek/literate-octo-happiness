@@ -17,3 +17,5 @@ Outline for Android App
   
 -Design:
   For my overall design I will using the help of Android SDK, which can ulitize the user interface. As well as improving the layout performance and space and GridLayout. 
+
+CHANGES:I will be now implementing a database into my app development to help store information, using SQlite database systems. 
